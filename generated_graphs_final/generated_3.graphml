@@ -1,0 +1,2320 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d5" for="edge" attr.name="length" attr.type="double"/>
+<key id="d4" for="edge" attr.name="edge_type" attr.type="string"/>
+<key id="d3" for="node" attr.name="arch_type" attr.type="string"/>
+<key id="d2" for="node" attr.name="angle" attr.type="double"/>
+<key id="d1" for="node" attr.name="pos_y" attr.type="double"/>
+<key id="d0" for="node" attr.name="pos_x" attr.type="double"/>
+<graph edgedefault="undirected"><node id="0">
+  <data key="d0">0.9497537612915039</data>
+  <data key="d1">-1.4408695697784424</data>
+  <data key="d2">-0.41128551959991455</data>
+  <data key="d3">Wall</data>
+</node>
+<node id="1">
+  <data key="d0">-1.3593037128448486</data>
+  <data key="d1">0.235259547829628</data>
+  <data key="d2">0.5233189463615417</data>
+  <data key="d3">Wall</data>
+</node>
+<node id="2">
+  <data key="d0">1.9949170351028442</data>
+  <data key="d1">-0.5197322964668274</data>
+  <data key="d2">-0.392742395401001</data>
+  <data key="d3">Wall</data>
+</node>
+<node id="3">
+  <data key="d0">1.1640493869781494</data>
+  <data key="d1">0.4813527464866638</data>
+  <data key="d2">-0.9301032423973083</data>
+  <data key="d3">Wall</data>
+</node>
+<node id="4">
+  <data key="d0">-1.8498084545135498</data>
+  <data key="d1">0.22585919499397278</data>
+  <data key="d2">-0.5468645691871643</data>
+  <data key="d3">Wall</data>
+</node>
+<node id="5">
+  <data key="d0">0.6059638857841492</data>
+  <data key="d1">0.43359020352363586</data>
+  <data key="d2">-0.9949159622192383</data>
+  <data key="d3">Wall</data>
+</node>
+<node id="6">
+  <data key="d0">0.7996689081192017</data>
+  <data key="d1">-0.9219158291816711</data>
+  <data key="d2">0.05370478332042694</data>
+  <data key="d3">Wall</data>
+</node>
+<node id="7">
+  <data key="d0">-0.5790936350822449</data>
+  <data key="d1">0.04864875227212906</data>
+  <data key="d2">1.1980394124984741</data>
+  <data key="d3">Wall</data>
+</node>
+<node id="8">
+  <data key="d0">0.05290689691901207</data>
+  <data key="d1">-2.346740245819092</data>
+  <data key="d2">0.0443238765001297</data>
+  <data key="d3">Wall</data>
+</node>
+<node id="9">
+  <data key="d0">-0.006947733461856842</data>
+  <data key="d1">-0.8166137933731079</data>
+  <data key="d2">-1.0190575122833252</data>
+  <data key="d3">Wall</data>
+</node>
+<node id="10">
+  <data key="d0">0.6700564026832581</data>
+  <data key="d1">-0.02276667021214962</data>
+  <data key="d2">-0.5111110806465149</data>
+  <data key="d3">Wall</data>
+</node>
+<node id="11">
+  <data key="d0">0.5487023591995239</data>
+  <data key="d1">-1.2913665771484375</data>
+  <data key="d2">-1.316263198852539</data>
+  <data key="d3">Wall</data>
+</node>
+<node id="12">
+  <data key="d0">0.3235071897506714</data>
+  <data key="d1">0.329485684633255</data>
+  <data key="d2">-2.1065337657928467</data>
+  <data key="d3">Wall</data>
+</node>
+<node id="13">
+  <data key="d0">0.14392045140266418</data>
+  <data key="d1">-0.9536635875701904</data>
+  <data key="d2">-0.7854551076889038</data>
+  <data key="d3">Wall</data>
+</node>
+<node id="14">
+  <data key="d0">0.29898667335510254</data>
+  <data key="d1">-1.0920765399932861</data>
+  <data key="d2">0.4571070373058319</data>
+  <data key="d3">Wall</data>
+</node>
+<node id="15">
+  <data key="d0">1.3327652215957642</data>
+  <data key="d1">0.605621337890625</data>
+  <data key="d2">-1.5212268829345703</data>
+  <data key="d3">Wall</data>
+</node>
+<node id="16">
+  <data key="d0">0.8983349800109863</data>
+  <data key="d1">-0.7372691631317139</data>
+  <data key="d2">-0.09840454906225204</data>
+  <data key="d3">Wall</data>
+</node>
+<node id="17">
+  <data key="d0">-0.21079757809638977</data>
+  <data key="d1">0.3591216206550598</data>
+  <data key="d2">-1.4664700031280518</data>
+  <data key="d3">Wall</data>
+</node>
+<node id="18">
+  <data key="d0">-0.8716834187507629</data>
+  <data key="d1">2.068284273147583</data>
+  <data key="d2">1.0500515699386597</data>
+  <data key="d3">Wall</data>
+</node>
+<node id="19">
+  <data key="d0">0.4725341796875</data>
+  <data key="d1">-1.7253952026367188</data>
+  <data key="d2">-0.2128213793039322</data>
+  <data key="d3">Wall</data>
+</node>
+<node id="20">
+  <data key="d0">1.3906477689743042</data>
+  <data key="d1">-0.2295549064874649</data>
+  <data key="d2">0.15936556458473206</data>
+  <data key="d3">Wall</data>
+</node>
+<node id="21">
+  <data key="d0">0.7149195075035095</data>
+  <data key="d1">-0.10529650747776031</data>
+  <data key="d2">-0.22266781330108643</data>
+  <data key="d3">Wall</data>
+</node>
+<node id="22">
+  <data key="d0">0.2904937267303467</data>
+  <data key="d1">-0.9325335621833801</data>
+  <data key="d2">-0.2223060429096222</data>
+  <data key="d3">Wall</data>
+</node>
+<node id="23">
+  <data key="d0">-0.07039698958396912</data>
+  <data key="d1">1.1924183368682861</data>
+  <data key="d2">0.44736796617507935</data>
+  <data key="d3">Wall</data>
+</node>
+<node id="24">
+  <data key="d0">1.6664918661117554</data>
+  <data key="d1">1.4639701843261719</data>
+  <data key="d2">-0.9110202193260193</data>
+  <data key="d3">Wall</data>
+</node>
+<node id="25">
+  <data key="d0">2.255208969116211</data>
+  <data key="d1">-1.1834208965301514</data>
+  <data key="d2">-1.1555227041244507</data>
+  <data key="d3">Wall</data>
+</node>
+<node id="26">
+  <data key="d0">0.5419477224349976</data>
+  <data key="d1">-0.9475721120834351</data>
+  <data key="d2">-0.33212894201278687</data>
+  <data key="d3">Wall</data>
+</node>
+<node id="27">
+  <data key="d0">1.0396311283111572</data>
+  <data key="d1">-1.6637306213378906</data>
+  <data key="d2">0.9069890975952148</data>
+  <data key="d3">Wall</data>
+</node>
+<node id="28">
+  <data key="d0">-0.5708310604095459</data>
+  <data key="d1">-0.3972347676753998</data>
+  <data key="d2">0.5406042337417603</data>
+  <data key="d3">Wall</data>
+</node>
+<node id="29">
+  <data key="d0">0.47872668504714966</data>
+  <data key="d1">-0.10786407440900803</data>
+  <data key="d2">0.8189117908477783</data>
+  <data key="d3">Wall</data>
+</node>
+<node id="30">
+  <data key="d0">-0.7211723327636719</data>
+  <data key="d1">-0.194906085729599</data>
+  <data key="d2">-2.273876428604126</data>
+  <data key="d3">Wall</data>
+</node>
+<node id="31">
+  <data key="d0">0.4489917755126953</data>
+  <data key="d1">0.5242939591407776</data>
+  <data key="d2">-0.23946219682693481</data>
+  <data key="d3">Wall</data>
+</node>
+<node id="32">
+  <data key="d0">-0.8400542736053467</data>
+  <data key="d1">-1.1631256341934204</data>
+  <data key="d2">1.8681399822235107</data>
+  <data key="d3">Wall</data>
+</node>
+<node id="33">
+  <data key="d0">2.040424346923828</data>
+  <data key="d1">-0.06428784132003784</data>
+  <data key="d2">0.8178125619888306</data>
+  <data key="d3">Wall</data>
+</node>
+<node id="34">
+  <data key="d0">-0.16946007311344147</data>
+  <data key="d1">-0.09126783907413483</data>
+  <data key="d2">0.6788495182991028</data>
+  <data key="d3">Wall</data>
+</node>
+<node id="35">
+  <data key="d0">0.23625658452510834</data>
+  <data key="d1">-0.871266782283783</data>
+  <data key="d2">0.040826380252838135</data>
+  <data key="d3">Wall</data>
+</node>
+<node id="36">
+  <data key="d0">0.7576807737350464</data>
+  <data key="d1">-0.0690537542104721</data>
+  <data key="d2">0.1374533474445343</data>
+  <data key="d3">Wall</data>
+</node>
+<node id="37">
+  <data key="d0">-0.3637160658836365</data>
+  <data key="d1">-0.5645954012870789</data>
+  <data key="d2">-0.0006741136312484741</data>
+  <data key="d3">Wall</data>
+</node>
+<node id="38">
+  <data key="d0">-1.023125171661377</data>
+  <data key="d1">1.280061960220337</data>
+  <data key="d2">-0.3891426920890808</data>
+  <data key="d3">Wall</data>
+</node>
+<node id="39">
+  <data key="d0">0.9844359159469604</data>
+  <data key="d1">-0.7729393839836121</data>
+  <data key="d2">-0.8517162799835205</data>
+  <data key="d3">Wall</data>
+</node>
+<node id="40">
+  <data key="d0">-0.8938667178153992</data>
+  <data key="d1">-0.518945574760437</data>
+  <data key="d2">1.2362515926361084</data>
+  <data key="d3">Wall</data>
+</node>
+<node id="41">
+  <data key="d0">0.6020365357398987</data>
+  <data key="d1">2.02117657661438</data>
+  <data key="d2">1.2568494081497192</data>
+  <data key="d3">Wall</data>
+</node>
+<node id="42">
+  <data key="d0">0.062157586216926575</data>
+  <data key="d1">2.3256587982177734</data>
+  <data key="d2">-0.01652851700782776</data>
+  <data key="d3">Wall</data>
+</node>
+<node id="43">
+  <data key="d0">-0.930488109588623</data>
+  <data key="d1">-1.0563359260559082</data>
+  <data key="d2">1.0692834854125977</data>
+  <data key="d3">Wall</data>
+</node>
+<node id="44">
+  <data key="d0">-0.6728429794311523</data>
+  <data key="d1">-0.04552275314927101</data>
+  <data key="d2">-0.38547223806381226</data>
+  <data key="d3">Wall</data>
+</node>
+<node id="45">
+  <data key="d0">-1.4783554077148438</data>
+  <data key="d1">1.9211093187332153</data>
+  <data key="d2">-0.23182345926761627</data>
+  <data key="d3">Wall</data>
+</node>
+<node id="46">
+  <data key="d0">-0.8589257597923279</data>
+  <data key="d1">0.10101106017827988</data>
+  <data key="d2">-0.1543392688035965</data>
+  <data key="d3">Wall</data>
+</node>
+<node id="47">
+  <data key="d0">-0.20875291526317596</data>
+  <data key="d1">-0.7431000471115112</data>
+  <data key="d2">0.6329003572463989</data>
+  <data key="d3">Wall</data>
+</node>
+<node id="48">
+  <data key="d0">-0.6758705377578735</data>
+  <data key="d1">-0.3243071734905243</data>
+  <data key="d2">-0.9820261001586914</data>
+  <data key="d3">Wall</data>
+</node>
+<node id="49">
+  <data key="d0">0.1638166606426239</data>
+  <data key="d1">-0.10913834720849991</data>
+  <data key="d2">-1.0186220407485962</data>
+  <data key="d3">Wall</data>
+</node>
+<edge source="0" target="1">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.2115697860717773</data>
+</edge>
+<edge source="0" target="4">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-2.1582725048065186</data>
+</edge>
+<edge source="0" target="8">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.47057750821113586</data>
+</edge>
+<edge source="0" target="14">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.9197232723236084</data>
+</edge>
+<edge source="0" target="15">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.40765127539634705</data>
+</edge>
+<edge source="0" target="20">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.2629139423370361</data>
+</edge>
+<edge source="0" target="26">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.7160329818725586</data>
+</edge>
+<edge source="0" target="29">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.3627885580062866</data>
+</edge>
+<edge source="0" target="30">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.3170073628425598</data>
+</edge>
+<edge source="0" target="31">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.2701149582862854</data>
+</edge>
+<edge source="0" target="35">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.1636686623096466</data>
+</edge>
+<edge source="0" target="37">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.6468281745910645</data>
+</edge>
+<edge source="0" target="39">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.49353528022766113</data>
+</edge>
+<edge source="0" target="43">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.3184492588043213</data>
+</edge>
+<edge source="0" target="44">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.3311772346496582</data>
+</edge>
+<edge source="0" target="46">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.5333957672119141</data>
+</edge>
+<edge source="1" target="4">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.4786376655101776</data>
+</edge>
+<edge source="1" target="12">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.5116956233978271</data>
+</edge>
+<edge source="1" target="13">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.0078412294387817</data>
+</edge>
+<edge source="1" target="14">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.9154887199401855</data>
+</edge>
+<edge source="1" target="16">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.1736557483673096</data>
+</edge>
+<edge source="1" target="18">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.6233618259429932</data>
+</edge>
+<edge source="1" target="21">
+  <data key="d4">EdgeType.WALL_INT</data>
+  <data key="d5">1.7868008613586426</data>
+</edge>
+<edge source="1" target="22">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.553719699382782</data>
+</edge>
+<edge source="1" target="26">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.9035122990608215</data>
+</edge>
+<edge source="1" target="28">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.8313023447990417</data>
+</edge>
+<edge source="1" target="29">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.538927435874939</data>
+</edge>
+<edge source="1" target="32">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.147000789642334</data>
+</edge>
+<edge source="1" target="35">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-2.1681606769561768</data>
+</edge>
+<edge source="1" target="40">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.21480092406272888</data>
+</edge>
+<edge source="1" target="44">
+  <data key="d4">EdgeType.WALL_INT</data>
+  <data key="d5">0.5161055326461792</data>
+</edge>
+<edge source="1" target="47">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.23747536540031433</data>
+</edge>
+<edge source="2" target="4">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.941716194152832</data>
+</edge>
+<edge source="2" target="5">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.6052817106246948</data>
+</edge>
+<edge source="2" target="6">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.4499374628067017</data>
+</edge>
+<edge source="2" target="12">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.800788402557373</data>
+</edge>
+<edge source="2" target="16">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.9259846210479736</data>
+</edge>
+<edge source="2" target="19">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.3437986373901367</data>
+</edge>
+<edge source="2" target="21">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.5924620628356934</data>
+</edge>
+<edge source="2" target="24">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.22035323083400726</data>
+</edge>
+<edge source="2" target="25">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.0893765687942505</data>
+</edge>
+<edge source="2" target="26">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.6544582843780518</data>
+</edge>
+<edge source="2" target="27">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.018779993057251</data>
+</edge>
+<edge source="2" target="30">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.2979528307914734</data>
+</edge>
+<edge source="2" target="33">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.1777883917093277</data>
+</edge>
+<edge source="2" target="38">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.3961776494979858</data>
+</edge>
+<edge source="2" target="39">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.4007363021373749</data>
+</edge>
+<edge source="2" target="40">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.5367803573608398</data>
+</edge>
+<edge source="2" target="48">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.7475048303604126</data>
+</edge>
+<edge source="3" target="4">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.9182747006416321</data>
+</edge>
+<edge source="3" target="5">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.6939231157302856</data>
+</edge>
+<edge source="3" target="7">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.6979638338088989</data>
+</edge>
+<edge source="3" target="8">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-2.262333393096924</data>
+</edge>
+<edge source="3" target="12">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.10361722856760025</data>
+</edge>
+<edge source="3" target="14">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.8063098192214966</data>
+</edge>
+<edge source="3" target="15">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.2121542692184448</data>
+</edge>
+<edge source="3" target="16">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.9944633841514587</data>
+</edge>
+<edge source="3" target="21">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.842174768447876</data>
+</edge>
+<edge source="3" target="23">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.5424004197120667</data>
+</edge>
+<edge source="3" target="31">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.0469883680343628</data>
+</edge>
+<edge source="3" target="32">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.8344452381134033</data>
+</edge>
+<edge source="3" target="35">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.5507514476776123</data>
+</edge>
+<edge source="3" target="36">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.35535910725593567</data>
+</edge>
+<edge source="3" target="37">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.3307935297489166</data>
+</edge>
+<edge source="3" target="39">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.7291557788848877</data>
+</edge>
+<edge source="3" target="40">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.5451637506484985</data>
+</edge>
+<edge source="3" target="43">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.8277825117111206</data>
+</edge>
+<edge source="3" target="45">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.36488157510757446</data>
+</edge>
+<edge source="3" target="46">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.8721421957015991</data>
+</edge>
+<edge source="3" target="47">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">2.0471675395965576</data>
+</edge>
+<edge source="3" target="49">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.6915068626403809</data>
+</edge>
+<edge source="4" target="8">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.0823787450790405</data>
+</edge>
+<edge source="4" target="9">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.4719094038009644</data>
+</edge>
+<edge source="4" target="11">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">2.9822537899017334</data>
+</edge>
+<edge source="4" target="12">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.2733170986175537</data>
+</edge>
+<edge source="4" target="16">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.2978598177433014</data>
+</edge>
+<edge source="4" target="20">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.3659166097640991</data>
+</edge>
+<edge source="4" target="28">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.009274646639823914</data>
+</edge>
+<edge source="4" target="37">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.6145029067993164</data>
+</edge>
+<edge source="4" target="40">
+  <data key="d4">EdgeType.WALL_INT</data>
+  <data key="d5">-2.4394469261169434</data>
+</edge>
+<edge source="4" target="42">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.015883080661296844</data>
+</edge>
+<edge source="4" target="46">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.575184166431427</data>
+</edge>
+<edge source="4" target="48">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.405430555343628</data>
+</edge>
+<edge source="5" target="8">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.548943281173706</data>
+</edge>
+<edge source="5" target="10">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.25750261545181274</data>
+</edge>
+<edge source="5" target="12">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.45477840304374695</data>
+</edge>
+<edge source="5" target="15">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.6230572462081909</data>
+</edge>
+<edge source="5" target="17">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.08477439731359482</data>
+</edge>
+<edge source="5" target="19">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.282857060432434</data>
+</edge>
+<edge source="5" target="20">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.7891656756401062</data>
+</edge>
+<edge source="5" target="22">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.3761831521987915</data>
+</edge>
+<edge source="5" target="23">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.0937201976776123</data>
+</edge>
+<edge source="5" target="25">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.4546139240264893</data>
+</edge>
+<edge source="5" target="27">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-2.213491201400757</data>
+</edge>
+<edge source="5" target="28">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.4931538701057434</data>
+</edge>
+<edge source="5" target="29">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.16549409925937653</data>
+</edge>
+<edge source="5" target="34">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.0045569539070129395</data>
+</edge>
+<edge source="5" target="36">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.08572990447282791</data>
+</edge>
+<edge source="5" target="37">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">3.624943256378174</data>
+</edge>
+<edge source="5" target="38">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.5110679268836975</data>
+</edge>
+<edge source="5" target="39">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.030498415231704712</data>
+</edge>
+<edge source="5" target="40">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-2.0021462440490723</data>
+</edge>
+<edge source="5" target="42">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.10463082790374756</data>
+</edge>
+<edge source="5" target="43">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.7643238306045532</data>
+</edge>
+<edge source="5" target="46">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.7835589647293091</data>
+</edge>
+<edge source="5" target="47">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.3803198337554932</data>
+</edge>
+<edge source="6" target="7">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.0893570184707642</data>
+</edge>
+<edge source="6" target="8">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.18982848525047302</data>
+</edge>
+<edge source="6" target="10">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.2968311309814453</data>
+</edge>
+<edge source="6" target="11">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-2.2520978450775146</data>
+</edge>
+<edge source="6" target="12">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.31306010484695435</data>
+</edge>
+<edge source="6" target="13">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.8250670433044434</data>
+</edge>
+<edge source="6" target="17">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.37497198581695557</data>
+</edge>
+<edge source="6" target="19">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">2.056354522705078</data>
+</edge>
+<edge source="6" target="20">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.4209733009338379</data>
+</edge>
+<edge source="6" target="22">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.4540364742279053</data>
+</edge>
+<edge source="6" target="24">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.9145098924636841</data>
+</edge>
+<edge source="6" target="25">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.1473512649536133</data>
+</edge>
+<edge source="6" target="26">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">2.0485177040100098</data>
+</edge>
+<edge source="6" target="28">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.7731033563613892</data>
+</edge>
+<edge source="6" target="30">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.8135040402412415</data>
+</edge>
+<edge source="6" target="31">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-2.1798605918884277</data>
+</edge>
+<edge source="6" target="33">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-2.00608229637146</data>
+</edge>
+<edge source="6" target="35">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.2707761526107788</data>
+</edge>
+<edge source="6" target="38">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.088726282119751</data>
+</edge>
+<edge source="6" target="41">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.3796391487121582</data>
+</edge>
+<edge source="6" target="44">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">2.0585060119628906</data>
+</edge>
+<edge source="7" target="9">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.878760814666748</data>
+</edge>
+<edge source="7" target="11">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.04217643290758133</data>
+</edge>
+<edge source="7" target="14">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.2313368320465088</data>
+</edge>
+<edge source="7" target="16">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.0755122900009155</data>
+</edge>
+<edge source="7" target="17">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.9173924326896667</data>
+</edge>
+<edge source="7" target="22">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.11934155225753784</data>
+</edge>
+<edge source="7" target="24">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.6950911283493042</data>
+</edge>
+<edge source="7" target="27">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.40321338176727295</data>
+</edge>
+<edge source="7" target="28">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.4594590663909912</data>
+</edge>
+<edge source="7" target="29">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.005147099494934</data>
+</edge>
+<edge source="7" target="31">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.29529765248298645</data>
+</edge>
+<edge source="7" target="36">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.3270445764064789</data>
+</edge>
+<edge source="7" target="40">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.05487743765115738</data>
+</edge>
+<edge source="7" target="43">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.6724619269371033</data>
+</edge>
+<edge source="7" target="44">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.35154396295547485</data>
+</edge>
+<edge source="8" target="9">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">2.4362945556640625</data>
+</edge>
+<edge source="8" target="10">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.818005383014679</data>
+</edge>
+<edge source="8" target="12">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.1721749305725098</data>
+</edge>
+<edge source="8" target="13">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.5575052499771118</data>
+</edge>
+<edge source="8" target="15">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-3.638186454772949</data>
+</edge>
+<edge source="8" target="18">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.7696261405944824</data>
+</edge>
+<edge source="8" target="19">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.6283748149871826</data>
+</edge>
+<edge source="8" target="20">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.3077332675457001</data>
+</edge>
+<edge source="8" target="22">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.4190589487552643</data>
+</edge>
+<edge source="8" target="24">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.3794766068458557</data>
+</edge>
+<edge source="8" target="27">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.2986395359039307</data>
+</edge>
+<edge source="8" target="28">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-2.0734760761260986</data>
+</edge>
+<edge source="8" target="29">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.34417128562927246</data>
+</edge>
+<edge source="8" target="31">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.076526403427124</data>
+</edge>
+<edge source="8" target="32">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.6799178123474121</data>
+</edge>
+<edge source="8" target="33">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.7135894894599915</data>
+</edge>
+<edge source="8" target="35">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-2.159932851791382</data>
+</edge>
+<edge source="8" target="40">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">2.0155420303344727</data>
+</edge>
+<edge source="8" target="43">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.1568788290023804</data>
+</edge>
+<edge source="8" target="44">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.5793778896331787</data>
+</edge>
+<edge source="8" target="45">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.42366495728492737</data>
+</edge>
+<edge source="8" target="48">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.005969405174255371</data>
+</edge>
+<edge source="9" target="15">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.3675377666950226</data>
+</edge>
+<edge source="9" target="17">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.0207672119140625</data>
+</edge>
+<edge source="9" target="21">
+  <data key="d4">EdgeType.WALL_INT</data>
+  <data key="d5">0.7108873128890991</data>
+</edge>
+<edge source="9" target="23">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.9897682666778564</data>
+</edge>
+<edge source="9" target="24">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.9657609462738037</data>
+</edge>
+<edge source="9" target="25">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.24783635139465332</data>
+</edge>
+<edge source="9" target="28">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.0500439405441284</data>
+</edge>
+<edge source="9" target="32">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">2.379006862640381</data>
+</edge>
+<edge source="9" target="33">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.47283613681793213</data>
+</edge>
+<edge source="9" target="36">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.806414246559143</data>
+</edge>
+<edge source="9" target="37">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.9038596153259277</data>
+</edge>
+<edge source="9" target="38">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-2.824699878692627</data>
+</edge>
+<edge source="9" target="40">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.22556844353675842</data>
+</edge>
+<edge source="9" target="41">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">2.72995662689209</data>
+</edge>
+<edge source="9" target="43">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.463474988937378</data>
+</edge>
+<edge source="9" target="47">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.806045413017273</data>
+</edge>
+<edge source="9" target="49">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.2791844308376312</data>
+</edge>
+<edge source="10" target="11">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">2.2620091438293457</data>
+</edge>
+<edge source="10" target="13">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.2907655239105225</data>
+</edge>
+<edge source="10" target="15">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.8276997208595276</data>
+</edge>
+<edge source="10" target="16">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.570433497428894</data>
+</edge>
+<edge source="10" target="18">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.64845871925354</data>
+</edge>
+<edge source="10" target="23">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.470122754573822</data>
+</edge>
+<edge source="10" target="24">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.7723367810249329</data>
+</edge>
+<edge source="10" target="26">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.4228965044021606</data>
+</edge>
+<edge source="10" target="29">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.9628333449363708</data>
+</edge>
+<edge source="10" target="31">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.26551660895347595</data>
+</edge>
+<edge source="10" target="36">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.5468403100967407</data>
+</edge>
+<edge source="10" target="39">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.7256380319595337</data>
+</edge>
+<edge source="10" target="40">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.031538724899292</data>
+</edge>
+<edge source="10" target="41">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.3030809164047241</data>
+</edge>
+<edge source="10" target="42">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.43136289715766907</data>
+</edge>
+<edge source="10" target="47">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.12046799063682556</data>
+</edge>
+<edge source="10" target="48">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.8096680641174316</data>
+</edge>
+<edge source="11" target="14">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.49888932704925537</data>
+</edge>
+<edge source="11" target="15">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.3834906816482544</data>
+</edge>
+<edge source="11" target="17">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.0990047454833984</data>
+</edge>
+<edge source="11" target="18">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.5670750141143799</data>
+</edge>
+<edge source="11" target="20">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.083375096321106</data>
+</edge>
+<edge source="11" target="28">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.8625818490982056</data>
+</edge>
+<edge source="11" target="30">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.6390116214752197</data>
+</edge>
+<edge source="11" target="37">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.5657668113708496</data>
+</edge>
+<edge source="11" target="44">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.2692492008209229</data>
+</edge>
+<edge source="11" target="45">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.5327216386795044</data>
+</edge>
+<edge source="11" target="47">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.7847172021865845</data>
+</edge>
+<edge source="11" target="48">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.911311686038971</data>
+</edge>
+<edge source="12" target="14">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.0679880380630493</data>
+</edge>
+<edge source="12" target="19">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.5105392932891846</data>
+</edge>
+<edge source="12" target="21">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.7242576479911804</data>
+</edge>
+<edge source="12" target="23">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.1827526092529297</data>
+</edge>
+<edge source="12" target="27">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.9334241151809692</data>
+</edge>
+<edge source="12" target="29">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.09328373521566391</data>
+</edge>
+<edge source="12" target="30">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">2.2281484603881836</data>
+</edge>
+<edge source="12" target="35">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.4321858882904053</data>
+</edge>
+<edge source="12" target="38">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.7195063233375549</data>
+</edge>
+<edge source="12" target="39">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.6425107717514038</data>
+</edge>
+<edge source="12" target="40">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.40115630626678467</data>
+</edge>
+<edge source="12" target="41">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">2.2390029430389404</data>
+</edge>
+<edge source="12" target="42">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.6249411702156067</data>
+</edge>
+<edge source="12" target="43">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.3673403859138489</data>
+</edge>
+<edge source="12" target="45">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.05804513394832611</data>
+</edge>
+<edge source="12" target="47">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.1763265132904053</data>
+</edge>
+<edge source="13" target="15">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">2.0011961460113525</data>
+</edge>
+<edge source="13" target="16">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.2516257166862488</data>
+</edge>
+<edge source="13" target="18">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.928542971611023</data>
+</edge>
+<edge source="13" target="19">
+  <data key="d4">EdgeType.WALL_INT</data>
+  <data key="d5">-1.5867664813995361</data>
+</edge>
+<edge source="13" target="21">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.201852485537529</data>
+</edge>
+<edge source="13" target="24">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.153058409690857</data>
+</edge>
+<edge source="13" target="26">
+  <data key="d4">EdgeType.WALL_INT</data>
+  <data key="d5">1.0279905796051025</data>
+</edge>
+<edge source="13" target="27">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.4671660661697388</data>
+</edge>
+<edge source="13" target="29">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.7787528038024902</data>
+</edge>
+<edge source="13" target="30">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.3223569691181183</data>
+</edge>
+<edge source="13" target="31">
+  <data key="d4">EdgeType.WALL_INT</data>
+  <data key="d5">1.6099923849105835</data>
+</edge>
+<edge source="13" target="32">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.322890043258667</data>
+</edge>
+<edge source="13" target="35">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.5673041343688965</data>
+</edge>
+<edge source="13" target="37">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.5587700009346008</data>
+</edge>
+<edge source="13" target="43">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.019297592341899872</data>
+</edge>
+<edge source="13" target="44">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.892457365989685</data>
+</edge>
+<edge source="13" target="48">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.9348418712615967</data>
+</edge>
+<edge source="14" target="15">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.3229164779186249</data>
+</edge>
+<edge source="14" target="17">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.3392884731292725</data>
+</edge>
+<edge source="14" target="19">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">2.650773048400879</data>
+</edge>
+<edge source="14" target="20">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.6964366436004639</data>
+</edge>
+<edge source="14" target="22">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.2235599011182785</data>
+</edge>
+<edge source="14" target="28">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.8050091862678528</data>
+</edge>
+<edge source="14" target="29">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.2343145608901978</data>
+</edge>
+<edge source="14" target="32">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">4.150974750518799</data>
+</edge>
+<edge source="14" target="33">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.336878776550293</data>
+</edge>
+<edge source="14" target="35">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.17136713862419128</data>
+</edge>
+<edge source="14" target="37">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.8192881345748901</data>
+</edge>
+<edge source="14" target="39">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.8150651454925537</data>
+</edge>
+<edge source="14" target="40">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">3.215855360031128</data>
+</edge>
+<edge source="14" target="41">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.0703938826918602</data>
+</edge>
+<edge source="14" target="42">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.3755406141281128</data>
+</edge>
+<edge source="15" target="17">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.7071561813354492</data>
+</edge>
+<edge source="15" target="18">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-2.3832151889801025</data>
+</edge>
+<edge source="15" target="21">
+  <data key="d4">EdgeType.WALL_INT</data>
+  <data key="d5">0.4241900146007538</data>
+</edge>
+<edge source="15" target="22">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.6991971135139465</data>
+</edge>
+<edge source="15" target="28">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-2.115990400314331</data>
+</edge>
+<edge source="15" target="29">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.396934986114502</data>
+</edge>
+<edge source="15" target="32">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.7975976467132568</data>
+</edge>
+<edge source="15" target="34">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.3071801662445068</data>
+</edge>
+<edge source="15" target="35">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.9017144441604614</data>
+</edge>
+<edge source="15" target="37">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.7314784526824951</data>
+</edge>
+<edge source="15" target="39">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.10667076706886292</data>
+</edge>
+<edge source="15" target="41">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.9448077082633972</data>
+</edge>
+<edge source="15" target="43">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.886736273765564</data>
+</edge>
+<edge source="15" target="45">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.46187275648117065</data>
+</edge>
+<edge source="15" target="46">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.4618282914161682</data>
+</edge>
+<edge source="15" target="48">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.7284880876541138</data>
+</edge>
+<edge source="15" target="49">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.2090032696723938</data>
+</edge>
+<edge source="16" target="17">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.36689281463623047</data>
+</edge>
+<edge source="16" target="22">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.7460196018218994</data>
+</edge>
+<edge source="16" target="23">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.27487459778785706</data>
+</edge>
+<edge source="16" target="28">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.07837264239788055</data>
+</edge>
+<edge source="16" target="31">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.1522434651851654</data>
+</edge>
+<edge source="16" target="35">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.16240602731704712</data>
+</edge>
+<edge source="16" target="36">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.718787431716919</data>
+</edge>
+<edge source="16" target="39">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.6250119209289551</data>
+</edge>
+<edge source="16" target="42">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.20147216320037842</data>
+</edge>
+<edge source="16" target="43">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.277950644493103</data>
+</edge>
+<edge source="16" target="49">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.7954175472259521</data>
+</edge>
+<edge source="17" target="19">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.3932829201221466</data>
+</edge>
+<edge source="17" target="21">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.6569567918777466</data>
+</edge>
+<edge source="17" target="22">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.6676799058914185</data>
+</edge>
+<edge source="17" target="23">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.3891351521015167</data>
+</edge>
+<edge source="17" target="24">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.0490784645080566</data>
+</edge>
+<edge source="17" target="26">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.5530577898025513</data>
+</edge>
+<edge source="17" target="27">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-2.461920738220215</data>
+</edge>
+<edge source="17" target="30">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.268667459487915</data>
+</edge>
+<edge source="17" target="31">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.2367475032806396</data>
+</edge>
+<edge source="17" target="32">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.9089674353599548</data>
+</edge>
+<edge source="17" target="35">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.35683974623680115</data>
+</edge>
+<edge source="17" target="42">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">2.7983503341674805</data>
+</edge>
+<edge source="17" target="43">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.9241341948509216</data>
+</edge>
+<edge source="17" target="44">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-2.5859341621398926</data>
+</edge>
+<edge source="17" target="45">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.02598068118095398</data>
+</edge>
+<edge source="17" target="46">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.2600109577178955</data>
+</edge>
+<edge source="17" target="49">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.41928625106811523</data>
+</edge>
+<edge source="18" target="20">
+  <data key="d4">EdgeType.WALL_INT</data>
+  <data key="d5">1.8649991750717163</data>
+</edge>
+<edge source="18" target="22">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.8823108673095703</data>
+</edge>
+<edge source="18" target="28">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.3170136511325836</data>
+</edge>
+<edge source="18" target="30">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.299548864364624</data>
+</edge>
+<edge source="18" target="37">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">2.7559285163879395</data>
+</edge>
+<edge source="18" target="41">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.8013136386871338</data>
+</edge>
+<edge source="18" target="44">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.7219893336296082</data>
+</edge>
+<edge source="18" target="45">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.9506973028182983</data>
+</edge>
+<edge source="18" target="47">
+  <data key="d4">EdgeType.WALL_INT</data>
+  <data key="d5">0.18791526556015015</data>
+</edge>
+<edge source="18" target="48">
+  <data key="d4">EdgeType.WALL_INT</data>
+  <data key="d5">-2.784961700439453</data>
+</edge>
+<edge source="18" target="49">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.138664960861206</data>
+</edge>
+<edge source="19" target="20">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.6354990005493164</data>
+</edge>
+<edge source="19" target="27">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.08523213863372803</data>
+</edge>
+<edge source="19" target="28">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.0442719459533691</data>
+</edge>
+<edge source="19" target="34">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.2128114402294159</data>
+</edge>
+<edge source="19" target="42">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.42067697644233704</data>
+</edge>
+<edge source="19" target="44">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.9943521618843079</data>
+</edge>
+<edge source="19" target="45">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.44312646985054016</data>
+</edge>
+<edge source="19" target="46">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.6818203926086426</data>
+</edge>
+<edge source="19" target="48">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.082592487335205</data>
+</edge>
+<edge source="20" target="24">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.002194136381149292</data>
+</edge>
+<edge source="20" target="25">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">2.1818199157714844</data>
+</edge>
+<edge source="20" target="31">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">2.2831451892852783</data>
+</edge>
+<edge source="20" target="32">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.8476420640945435</data>
+</edge>
+<edge source="20" target="33">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.3465136289596558</data>
+</edge>
+<edge source="20" target="37">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.7202682495117188</data>
+</edge>
+<edge source="20" target="38">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">2.0551562309265137</data>
+</edge>
+<edge source="20" target="41">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.2729771137237549</data>
+</edge>
+<edge source="20" target="42">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.5322255492210388</data>
+</edge>
+<edge source="20" target="43">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.1936361938714981</data>
+</edge>
+<edge source="20" target="48">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.6503524780273438</data>
+</edge>
+<edge source="20" target="49">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.3035151958465576</data>
+</edge>
+<edge source="21" target="22">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.18160109221935272</data>
+</edge>
+<edge source="21" target="26">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.1340385377407074</data>
+</edge>
+<edge source="21" target="30">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.0842609703540802</data>
+</edge>
+<edge source="21" target="31">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.9838870763778687</data>
+</edge>
+<edge source="21" target="33">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.582089900970459</data>
+</edge>
+<edge source="21" target="35">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.8857302665710449</data>
+</edge>
+<edge source="21" target="39">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.64637291431427</data>
+</edge>
+<edge source="21" target="40">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.1179282665252686</data>
+</edge>
+<edge source="21" target="41">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.1100285053253174</data>
+</edge>
+<edge source="21" target="47">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.8198655843734741</data>
+</edge>
+<edge source="21" target="48">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.26653000712394714</data>
+</edge>
+<edge source="22" target="24">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.199920892715454</data>
+</edge>
+<edge source="22" target="27">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.0598481893539429</data>
+</edge>
+<edge source="22" target="30">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">2.02947998046875</data>
+</edge>
+<edge source="22" target="32">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.6565933227539062</data>
+</edge>
+<edge source="22" target="33">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.2915889024734497</data>
+</edge>
+<edge source="22" target="34">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">2.0666074752807617</data>
+</edge>
+<edge source="22" target="35">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.746134877204895</data>
+</edge>
+<edge source="22" target="39">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.9009555578231812</data>
+</edge>
+<edge source="22" target="41">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.5119832754135132</data>
+</edge>
+<edge source="22" target="43">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.1019388437271118</data>
+</edge>
+<edge source="22" target="45">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.8120042085647583</data>
+</edge>
+<edge source="22" target="47">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.8194728493690491</data>
+</edge>
+<edge source="22" target="48">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.3030019998550415</data>
+</edge>
+<edge source="22" target="49">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.4165854752063751</data>
+</edge>
+<edge source="23" target="24">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.518851637840271</data>
+</edge>
+<edge source="23" target="26">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.10779242217540741</data>
+</edge>
+<edge source="23" target="27">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.9477802515029907</data>
+</edge>
+<edge source="23" target="29">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">2.043361186981201</data>
+</edge>
+<edge source="23" target="35">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.0229718685150146</data>
+</edge>
+<edge source="23" target="37">
+  <data key="d4">EdgeType.WALL_INT</data>
+  <data key="d5">-0.014944806694984436</data>
+</edge>
+<edge source="23" target="40">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.378913551568985</data>
+</edge>
+<edge source="23" target="43">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">2.598206043243408</data>
+</edge>
+<edge source="23" target="46">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.8783129453659058</data>
+</edge>
+<edge source="23" target="47">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.16523057222366333</data>
+</edge>
+<edge source="23" target="48">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">2.4601969718933105</data>
+</edge>
+<edge source="23" target="49">
+  <data key="d4">EdgeType.WALL_INT</data>
+  <data key="d5">-1.1629184484481812</data>
+</edge>
+<edge source="24" target="25">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.9504742622375488</data>
+</edge>
+<edge source="24" target="29">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.7958108186721802</data>
+</edge>
+<edge source="24" target="39">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">2.5846049785614014</data>
+</edge>
+<edge source="24" target="41">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">2.3301048278808594</data>
+</edge>
+<edge source="24" target="42">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.402746558189392</data>
+</edge>
+<edge source="24" target="43">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.665212631225586</data>
+</edge>
+<edge source="24" target="44">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.46076643466949463</data>
+</edge>
+<edge source="24" target="48">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.2365872859954834</data>
+</edge>
+<edge source="25" target="27">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.3222957849502563</data>
+</edge>
+<edge source="25" target="31">
+  <data key="d4">EdgeType.WALL_INT</data>
+  <data key="d5">0.48426300287246704</data>
+</edge>
+<edge source="25" target="33">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.5249044299125671</data>
+</edge>
+<edge source="25" target="35">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.944135308265686</data>
+</edge>
+<edge source="25" target="41">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.3222527503967285</data>
+</edge>
+<edge source="25" target="42">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.33541274070739746</data>
+</edge>
+<edge source="25" target="44">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.6414345502853394</data>
+</edge>
+<edge source="25" target="45">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.1649242639541626</data>
+</edge>
+<edge source="25" target="46">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.2006397247314453</data>
+</edge>
+<edge source="26" target="29">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.5629151463508606</data>
+</edge>
+<edge source="26" target="30">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-2.9854886531829834</data>
+</edge>
+<edge source="26" target="31">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-2.0562593936920166</data>
+</edge>
+<edge source="26" target="34">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.905362606048584</data>
+</edge>
+<edge source="26" target="35">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">3.261920213699341</data>
+</edge>
+<edge source="26" target="36">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.0806527137756348</data>
+</edge>
+<edge source="26" target="39">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.6505109667778015</data>
+</edge>
+<edge source="26" target="44">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.6363718509674072</data>
+</edge>
+<edge source="27" target="28">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.7393168210983276</data>
+</edge>
+<edge source="27" target="30">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">2.030432939529419</data>
+</edge>
+<edge source="27" target="33">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.242674708366394</data>
+</edge>
+<edge source="27" target="35">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.738972544670105</data>
+</edge>
+<edge source="27" target="43">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.23989541828632355</data>
+</edge>
+<edge source="28" target="30">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.31673160195350647</data>
+</edge>
+<edge source="28" target="31">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.6230962872505188</data>
+</edge>
+<edge source="28" target="33">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.4933316707611084</data>
+</edge>
+<edge source="28" target="35">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.3204131126403809</data>
+</edge>
+<edge source="28" target="36">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.527118444442749</data>
+</edge>
+<edge source="28" target="38">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.731273889541626</data>
+</edge>
+<edge source="28" target="41">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.4061184525489807</data>
+</edge>
+<edge source="28" target="42">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.7673273086547852</data>
+</edge>
+<edge source="28" target="44">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.0504784882068634</data>
+</edge>
+<edge source="28" target="45">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.05133476108312607</data>
+</edge>
+<edge source="28" target="47">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.12429758906364441</data>
+</edge>
+<edge source="29" target="34">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.5500684976577759</data>
+</edge>
+<edge source="29" target="35">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.847902774810791</data>
+</edge>
+<edge source="29" target="37">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.4869372844696045</data>
+</edge>
+<edge source="29" target="39">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.0890835523605347</data>
+</edge>
+<edge source="29" target="41">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.3827111721038818</data>
+</edge>
+<edge source="29" target="42">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.8579990267753601</data>
+</edge>
+<edge source="29" target="43">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.305170476436615</data>
+</edge>
+<edge source="29" target="44">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.0903187990188599</data>
+</edge>
+<edge source="29" target="46">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">3.060857057571411</data>
+</edge>
+<edge source="30" target="33">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.42425960302352905</data>
+</edge>
+<edge source="30" target="35">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.251339077949524</data>
+</edge>
+<edge source="30" target="37">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">2.3643078804016113</data>
+</edge>
+<edge source="30" target="40">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.38089126348495483</data>
+</edge>
+<edge source="30" target="41">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.6940863132476807</data>
+</edge>
+<edge source="30" target="42">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.36080998182296753</data>
+</edge>
+<edge source="30" target="45">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.60426926612854</data>
+</edge>
+<edge source="30" target="46">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.9147884845733643</data>
+</edge>
+<edge source="30" target="48">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.9130034446716309</data>
+</edge>
+<edge source="31" target="33">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.528290033340454</data>
+</edge>
+<edge source="31" target="35">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.6300373077392578</data>
+</edge>
+<edge source="31" target="37">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.8754118084907532</data>
+</edge>
+<edge source="31" target="38">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.8082787394523621</data>
+</edge>
+<edge source="31" target="39">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.8423922061920166</data>
+</edge>
+<edge source="31" target="42">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.264479398727417</data>
+</edge>
+<edge source="32" target="35">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.7447566986083984</data>
+</edge>
+<edge source="32" target="39">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.2781164646148682</data>
+</edge>
+<edge source="32" target="40">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-2.027879476547241</data>
+</edge>
+<edge source="32" target="41">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.7829753756523132</data>
+</edge>
+<edge source="32" target="42">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.6556114554405212</data>
+</edge>
+<edge source="32" target="43">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.2843613922595978</data>
+</edge>
+<edge source="32" target="44">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.1403894424438477</data>
+</edge>
+<edge source="32" target="47">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.3181597590446472</data>
+</edge>
+<edge source="33" target="35">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.2648112773895264</data>
+</edge>
+<edge source="33" target="37">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">2.125030517578125</data>
+</edge>
+<edge source="33" target="40">
+  <data key="d4">EdgeType.WALL_INT</data>
+  <data key="d5">0.020763888955116272</data>
+</edge>
+<edge source="33" target="41">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.1626967191696167</data>
+</edge>
+<edge source="33" target="42">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.8357722759246826</data>
+</edge>
+<edge source="33" target="44">
+  <data key="d4">EdgeType.WALL_INT</data>
+  <data key="d5">-0.3102489113807678</data>
+</edge>
+<edge source="33" target="46">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">2.2616212368011475</data>
+</edge>
+<edge source="33" target="47">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.5569560527801514</data>
+</edge>
+<edge source="34" target="36">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.2092981338500977</data>
+</edge>
+<edge source="34" target="39">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.703723669052124</data>
+</edge>
+<edge source="34" target="42">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-2.102673053741455</data>
+</edge>
+<edge source="34" target="45">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">3.2848849296569824</data>
+</edge>
+<edge source="34" target="46">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.05200424790382385</data>
+</edge>
+<edge source="34" target="48">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.9125632643699646</data>
+</edge>
+<edge source="35" target="41">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.9007749557495117</data>
+</edge>
+<edge source="35" target="43">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.4477299451828003</data>
+</edge>
+<edge source="35" target="44">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-2.306997776031494</data>
+</edge>
+<edge source="35" target="49">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.24298039078712463</data>
+</edge>
+<edge source="36" target="38">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.8240638971328735</data>
+</edge>
+<edge source="36" target="42">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.42373836040496826</data>
+</edge>
+<edge source="36" target="43">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.7910510301589966</data>
+</edge>
+<edge source="36" target="44">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.1503310203552246</data>
+</edge>
+<edge source="36" target="48">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.8650560975074768</data>
+</edge>
+<edge source="37" target="38">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.05244585871696472</data>
+</edge>
+<edge source="37" target="39">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">2.4870903491973877</data>
+</edge>
+<edge source="37" target="40">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.6278786659240723</data>
+</edge>
+<edge source="37" target="41">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.524590790271759</data>
+</edge>
+<edge source="37" target="46">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.5043548345565796</data>
+</edge>
+<edge source="37" target="47">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.8640956282615662</data>
+</edge>
+<edge source="37" target="48">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">2.307943820953369</data>
+</edge>
+<edge source="37" target="49">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.1651577949523926</data>
+</edge>
+<edge source="38" target="39">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.455461323261261</data>
+</edge>
+<edge source="38" target="40">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.4322686195373535</data>
+</edge>
+<edge source="38" target="41">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">2.0945348739624023</data>
+</edge>
+<edge source="38" target="42">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.023307517170906067</data>
+</edge>
+<edge source="38" target="46">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.590958595275879</data>
+</edge>
+<edge source="38" target="47">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.02472516894340515</data>
+</edge>
+<edge source="38" target="48">
+  <data key="d4">EdgeType.WALL_INT</data>
+  <data key="d5">-1.8370602130889893</data>
+</edge>
+<edge source="39" target="46">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.7636400461196899</data>
+</edge>
+<edge source="39" target="49">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.5131891965866089</data>
+</edge>
+<edge source="40" target="43">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">2.9495856761932373</data>
+</edge>
+<edge source="40" target="44">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.15587866306304932</data>
+</edge>
+<edge source="40" target="46">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.392582654953003</data>
+</edge>
+<edge source="40" target="47">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.4415243864059448</data>
+</edge>
+<edge source="40" target="49">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.38864535093307495</data>
+</edge>
+<edge source="41" target="43">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.2276451587677002</data>
+</edge>
+<edge source="41" target="44">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-2.8061206340789795</data>
+</edge>
+<edge source="41" target="46">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-2.9922332763671875</data>
+</edge>
+<edge source="41" target="47">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.8841906189918518</data>
+</edge>
+<edge source="42" target="43">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.1052691787481308</data>
+</edge>
+<edge source="42" target="44">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-3.434865713119507</data>
+</edge>
+<edge source="42" target="45">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.7184953689575195</data>
+</edge>
+<edge source="42" target="46">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.4617066383361816</data>
+</edge>
+<edge source="43" target="48">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-2.7345211505889893</data>
+</edge>
+<edge source="43" target="49">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-1.2282699346542358</data>
+</edge>
+<edge source="44" target="47">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">0.4322848916053772</data>
+</edge>
+<edge source="46" target="48">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">-0.22590811550617218</data>
+</edge>
+<edge source="46" target="49">
+  <data key="d4">EdgeType.ADJACENCY</data>
+  <data key="d5">1.1938835382461548</data>
+</edge>
+</graph></graphml>

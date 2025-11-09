@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d5" for="edge" attr.name="length" attr.type="double"/>
+<key id="d4" for="edge" attr.name="edge_type" attr.type="string"/>
+<key id="d3" for="node" attr.name="arch_type" attr.type="string"/>
+<key id="d2" for="node" attr.name="angle" attr.type="double"/>
+<key id="d1" for="node" attr.name="pos_y" attr.type="double"/>
+<key id="d0" for="node" attr.name="pos_x" attr.type="double"/>
+<graph edgedefault="undirected"><node id="0">
+  <data key="d0">-0.5703741908073425</data>
+  <data key="d1">0.3611483871936798</data>
+  <data key="d2">-0.14333342015743256</data>
+  <data key="d3">Door</data>
+</node>
+<node id="6">
+  <data key="d0">-1.1263364553451538</data>
+  <data key="d1">0.03121166303753853</data>
+  <data key="d2">2.2956318855285645</data>
+  <data key="d3">Door</data>
+</node>
+<node id="7">
+  <data key="d0">1.0445090532302856</data>
+  <data key="d1">0.1260385513305664</data>
+  <data key="d2">-1.1293363571166992</data>
+  <data key="d3">Door</data>
+</node>
+<node id="24">
+  <data key="d0">-0.27084407210350037</data>
+  <data key="d1">-0.5723971724510193</data>
+  <data key="d2">0.5230226516723633</data>
+  <data key="d3">Door</data>
+</node>
+<node id="25">
+  <data key="d0">-0.30902400612831116</data>
+  <data key="d1">1.2940289974212646</data>
+  <data key="d2">-0.9431269764900208</data>
+  <data key="d3">Door</data>
+</node>
+<edge source="0" target="6">
+  <data key="d4">wall</data>
+  <data key="d5">0.5322608947753906</data>
+</edge>
+<edge source="0" target="7">
+  <data key="d4">wall</data>
+  <data key="d5">-1.3365957736968994</data>
+</edge>
+<edge source="24" target="25">
+  <data key="d4">wall</data>
+  <data key="d5">0.16152101755142212</data>
+</edge>
+</graph></graphml>

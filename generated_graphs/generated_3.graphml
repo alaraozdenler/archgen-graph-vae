@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d5" for="edge" attr.name="length" attr.type="double"/>
+<key id="d4" for="edge" attr.name="edge_type" attr.type="string"/>
+<key id="d3" for="node" attr.name="arch_type" attr.type="string"/>
+<key id="d2" for="node" attr.name="angle" attr.type="double"/>
+<key id="d1" for="node" attr.name="pos_y" attr.type="double"/>
+<key id="d0" for="node" attr.name="pos_x" attr.type="double"/>
+<graph edgedefault="undirected"><node id="3">
+  <data key="d0">0.6059232354164124</data>
+  <data key="d1">-0.8016480207443237</data>
+  <data key="d2">0.8710200786590576</data>
+  <data key="d3">Door</data>
+</node>
+<node id="9">
+  <data key="d0">0.8003798723220825</data>
+  <data key="d1">0.3693315386772156</data>
+  <data key="d2">0.1017410010099411</data>
+  <data key="d3">Door</data>
+</node>
+<node id="19">
+  <data key="d0">0.16231125593185425</data>
+  <data key="d1">-0.2592164874076843</data>
+  <data key="d2">-1.256493330001831</data>
+  <data key="d3">Door</data>
+</node>
+<node id="20">
+  <data key="d0">1.1012595891952515</data>
+  <data key="d1">-1.4714564085006714</data>
+  <data key="d2">0.09718184173107147</data>
+  <data key="d3">Door</data>
+</node>
+<node id="25">
+  <data key="d0">0.8845536708831787</data>
+  <data key="d1">-1.0652669668197632</data>
+  <data key="d2">-0.12827731668949127</data>
+  <data key="d3">Door</data>
+</node>
+<node id="27">
+  <data key="d0">-0.8028508424758911</data>
+  <data key="d1">1.452177882194519</data>
+  <data key="d2">-1.134994626045227</data>
+  <data key="d3">Door</data>
+</node>
+<edge source="3" target="27">
+  <data key="d4">wall</data>
+  <data key="d5">-0.5350075364112854</data>
+</edge>
+<edge source="9" target="19">
+  <data key="d4">wall</data>
+  <data key="d5">-0.6969018578529358</data>
+</edge>
+<edge source="19" target="25">
+  <data key="d4">wall</data>
+  <data key="d5">-0.6021563410758972</data>
+</edge>
+<edge source="20" target="25">
+  <data key="d4">wall</data>
+  <data key="d5">0.08980153501033783</data>
+</edge>
+</graph></graphml>

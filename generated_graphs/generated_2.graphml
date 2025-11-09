@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d5" for="edge" attr.name="length" attr.type="double"/>
+<key id="d4" for="edge" attr.name="edge_type" attr.type="string"/>
+<key id="d3" for="node" attr.name="arch_type" attr.type="string"/>
+<key id="d2" for="node" attr.name="angle" attr.type="double"/>
+<key id="d1" for="node" attr.name="pos_y" attr.type="double"/>
+<key id="d0" for="node" attr.name="pos_x" attr.type="double"/>
+<graph edgedefault="undirected"><node id="9">
+  <data key="d0">-0.7216755151748657</data>
+  <data key="d1">1.727561593055725</data>
+  <data key="d2">-0.8208823800086975</data>
+  <data key="d3">Door</data>
+</node>
+<node id="13">
+  <data key="d0">-0.3218674957752228</data>
+  <data key="d1">-1.3440687656402588</data>
+  <data key="d2">1.3032598495483398</data>
+  <data key="d3">Door</data>
+</node>
+<edge source="9" target="13">
+  <data key="d4">wall</data>
+  <data key="d5">-0.18255694210529327</data>
+</edge>
+</graph></graphml>
